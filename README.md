@@ -18,7 +18,7 @@
 | Título | Responsável | 
 | -- | -- | 
 | 416. Partition Equal Subset Sum | Fábio gabriel | 
-|  | Nathan Abreu | 
+|  435. Least is Most | Nathan Abreu | 
 
 
 
@@ -26,7 +26,7 @@
 | Título | Responsável | 
 | -- | -- | 
 | 1235. Maximum Profit in Job Scheduling | Fábio Gabriel | 
-|  | Nathan Abreu | 
+|  321. Create Maximum Number | Nathan Abreu | 
 
 
 ## Screenshots
@@ -38,17 +38,18 @@
 
 ![1235. Maximum Profit in Job Scheduling (Interval Sheduling)](img/interval_sheduling.png)
 
-### []()
+### [435. Non-overlapping Intervals (Interval Scheduling)](https://leetcode.com/problems/non-overlapping-intervals/description/)
 
-![]()
+![435. Non-overlapping Intervals (Interval Scheduling)](img/leastismost.PNG)
 
-### []()
+### [321. Create Maximum Number (Caminhoneiro)](https://leetcode.com/problems/create-maximum-number/description/?envType=problem-list-v2&envId=greedy)
 
-![]()
+![321. Create Maximum Number (Caminhoneiro)](img/TruckDriver.PNG)
 
 
 ## Link do vídeo
 
+https://youtu.be/K6znaqnM7F0
 
 ## Guia de execução
 ### 416. Partition Equal Subset Sum (Knapsack)
